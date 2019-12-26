@@ -1,0 +1,131 @@
+/* .bg-modal {
+  width: 100%;
+  height: 100%;
+  z-index: 100000;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+.modal-content {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  border-radius: 4px;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.playdate-button {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  align-items: center;
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: 14px;
+  font-size: 42px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+.card :hover {
+  -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+   box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+
+/* About and Contact */
+.aboutImg, .contactImg, .loginImg {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.titleAboutUs {
+  background-color:#90ccf4;
+  padding: 5px;
+}
+#marginAboutUs {
+  margin-bottom: 10%;
+  margin-top: 3%;
+  border-radius:10px;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+#contactForm, #cssLogin {
+  background-color: #90ccf4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #777;
+}
+
+h1 {
+  font-size: 36px;
+  color: #555;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+}
+
+/* LOGIN AND REGISTER */
+#cssLogin{
+  width:70%;
+  margin-left:15%;
+  margin-top: 3%;
+  margin-bottom:10%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/* #Animals p {
+  font-weight:500;
+}
+
+#Animals .card {
+  border-radius:0;
+  box-shadow: 5px 5px 15px #e74c3c;
+  transition: all 0.3s ease-in;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+}
+
+#Animals .card:hover {
+  background: #e74c3c;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 5px 5px 10px #9E9E9E;
+}
+
+#Animals .card:hover h3, #Animals .card:hover i {
+  color: #fff;
+} */
